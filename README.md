@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FairozAhmadSheikh
 - 👀 I’m interested in Computer Science 
 - 🌱 I’m currently learning Web Development and Android Development
-- 💞️ I’m looking to collaborate on Artifical Intelligence
+- 💞️ More About me here https://portfolio-three-gray-24.vercel.app/
 - 📫 instagram.com/feroz.ahmad_
 
 <!---
