@@ -1,4 +1,4 @@
--  Hi, hI’m @FairozAhmadSheikh
+-  Hi, I’m @FairozAhmadSheikh
 -  I’m A Software Engineer
 -  I'm A FullStack Web Developer
 -  I Also am Andoid Developer 
