@@ -1,8 +1,9 @@
-- 👋 Hi, hI’m @FairozAhmadSheikh
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Web Development and Android Development
+-  Hi, hI’m @FairozAhmadSheikh
+-  I’m A Software Engineer
+-  I'm A FullStack Web Developer
+-  I Also am Andoid Developer 
+-   learning Web Development and Android Development
 - 💞️ More About me here https://portfolio-three-gray-24.vercel.app
-- 📫 https://www.instagram.com/feroz.ahmad_/
 #  Projects Section
 -  Travel Full-Stack =  https://travel-frontend-drab.vercel.app/
 -  ChatApp ConnectKashmir =https://connect-kashmir-frontend.vercel.app/login
