@@ -1,6 +1,5 @@
 -  Hi, I’m @FairozAhmadSheikh
--  I’m A Software Engineer
--  I'm A FullStack Web Developer and Android Developer
+-  I’m A Software Engineer, FullStack Web Developer and Android Developer
 - 💞️ More About me here https://portfolio-three-gray-24.vercel.app
 #  Projects Section
 -  Travel Full-Stack =  https://travel-frontend-drab.vercel.app/
