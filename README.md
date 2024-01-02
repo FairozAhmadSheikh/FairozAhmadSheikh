@@ -35,13 +35,13 @@ I am a professional web designer and developer. I have a degree in Web developme
 </p>
 <br>
 <div >
-  #  Projects Section
--  Travel Full-Stack =  https://travel-frontend-drab.vercel.app/
--  ChatApp ConnectKashmir =https://connect-kashmir-frontend.vercel.app/login
--  Advanced Quiz App = https://advanced-quiz-app-psi.vercel.app/
--  Todo App=  https://todo-app-khaki-iota.vercel.app/
--  Simple Quiz App = https://fairoz-quiz-app.vercel.app/
--  BookMyshow like App = https://bookmyshow-frontend-snowy.vercel.app/
+<h2>  #  Projects Section</h2>
+-  Travel Full-Stack =  https://travel-frontend-drab.vercel.app/<br/>
+-  ChatApp ConnectKashmir =https://connect-kashmir-frontend.vercel.app/login</br>
+-  Advanced Quiz App = https://advanced-quiz-app-psi.vercel.app/</div>br
+-  Todo App=  https://todo-app-khaki-iota.vercel.app/</br>
+-  Simple Quiz App = https://fairoz-quiz-app.vercel.app/</br>
+-  BookMyshow like App = https://bookmyshow-frontend-snowy.vercel.app/</br>
 </div>
 
 <div align="center">
