@@ -43,7 +43,8 @@ I am a professional web designer and developer. I have a degree in Web developme
 -  Simple Quiz App = https://fairoz-quiz-app.vercel.app/</br>
 -  BookMyshow like App = https://bookmyshow-frontend-snowy.vercel.app/</br>
 </div>
-
+</br>
+</br>
 <div align="center">
 
 <table>
