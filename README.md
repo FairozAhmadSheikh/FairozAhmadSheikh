@@ -11,7 +11,7 @@ I am a professional web designer and developer. I have a degree in Web developme
 
 <div align="left"><p> <a href="https://twitter.com/Ferozahmad7272" target="blank"><img src="https://img.shields.io/twitter/follow/Faiozahmad7272?logo=twitter&style=for-the-badge" alt="sksabbir393" /></a> </p>
 
-- 🌱 I’m currently working **Full-Stack Web Development.**
+- 🌱 I’m currently working on **Full-Stack Web Development.**
 - 🤔 I’m looking for Master's Program.
 - 💬 Ask me about **Full-Stack Web Development.**
 
