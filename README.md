@@ -1,7 +1,7 @@
 
 ###### <h1 align="center">Hi 👋, I'm Fairoz Ahmad Sheikh</h1>
 
-<p align="center">A passionate frontend developer from India</p>
+<p align="center">A passionate FullStack Web developer from India</p>
 
 I am a professional web designer and developer. I have a degree in Web development Through AlmaBetter and I also am an Android Developer. I can design any professional website. My extensive experience with designing and developing websites using HTML, CSS, Bootstrap,JavaScript reactJS,nodeJS,MongoDB,ExpressJS etc. I gained hands-on experience coding websites and applications. I have created many projects using Reactjs. I also gained valuable teamwork and communication skills that will make me a great asset to the Company.
 
