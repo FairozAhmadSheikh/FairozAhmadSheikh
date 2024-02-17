@@ -39,6 +39,7 @@ I am a Computer Engineer, professional web designer and developer . I have a deg
 -  Travel Full-Stack =  https://travel-frontend-drab.vercel.app/<br/>
 -  ChatApp ConnectKashmir =https://connect-kashmir-frontend.vercel.app/login</br>
 -  Weather Checking app =https://weather-check-pink.vercel.app/ </br>
+-  Music Player App =https://music-player-gamma-nine.vercel.app/ </br>
 -  Advanced Quiz App = https://advanced-quiz-app-psi.vercel.app/</br>
 -  Todo App=  https://todo-app-khaki-iota.vercel.app/</br>
 -  Simple Quiz App = https://fairoz-quiz-app.vercel.app/</br>
