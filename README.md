@@ -12,8 +12,8 @@ I am a Computer Engineer, professional web designer and developer . Good in Web 
 <div align="left"><p> <a href="https://twitter.com/Ferozahmad7272" target="blank"><img src="https://img.shields.io/twitter/follow/Faiozahmad7272?logo=twitter&style=for-the-badge" alt="sksabbir393" /></a> </p>
 
 - 🌱 I’m currently working on **Full-Stack Web Development.**
-- 🤔 I’m looking for Master's Program.
-- 💬 Ask me about **Full-Stack Web Development.**
+- 🤔 I’m also currently enrolled in  for Master's Program for AI (Artifical Intelligence).
+- 💬 Ask me about **Full-Stack Web Development ,Artifical Intelligence , Machine Learning, Deep Learning.**
 
 - 👨‍💻 My portfolio <a href="https://portfolio-three-gray-24.vercel.app/">Portfolio</a></div>
 
