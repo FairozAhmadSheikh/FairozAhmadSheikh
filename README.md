@@ -58,6 +58,9 @@ I am a Computer Engineer, professional web designer and developer . Good in Web 
     <td>
       <img src="https://streak-stats.demolab.com/?user=FairozAhmadSheikh" alt="GitHub streak stats">
     </td>
+     <td>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/fairozahmadsheik.png" alt="Your Image Badge" />
+     </td>
   </tr>
 </table>
 
