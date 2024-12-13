@@ -1,7 +1,9 @@
+# Hi there! 👋
+
 <h1 align="center">Hi 👋, I'm Fairoz Ahmad Sheikh</h1>
 <p align="center">A passionate FullStack Web developer from India</p>
 
-I am a Computer Engineer, professional web designer, and developer. Good in Web development, also Certified Through AlmaBetter, and I am an Android Developer. I can design any professional website. My extensive experience with designing and developing websites using HTML, CSS, Bootstrap, JavaScript, ReactJS, NodeJS, MongoDB, ExpressJS, etc., has given me hands-on experience coding websites and applications. I have created many projects using ReactJS. I also gained valuable teamwork and communication skills.
+Accomplished Full-Stack Web Developer and Android Developer with a strong foundation in backend development and ethical hacking. Proven expertise in designing, developing, and deploying innovative web and mobile applications. Demonstrated ability to effectively collaborate with cross-functional teams to deliver high-quality, secure, and user-centric solutions. Recognized as a top 7% global ethical hacker on TryHackMe, skilled in identifying and mitigating vulnerabilities.
 
 ###
 
@@ -100,7 +102,6 @@ I am a Computer Engineer, professional web designer, and developer. Good in Web 
     <li>Simple Quiz App: <a href="https://fairoz-quiz-app.vercel.app/">https://fairoz-quiz-app.vercel.app/</a></li>
     <li>BookMyShow-like App: <a href="https://bookmyshow-frontend-snowy.vercel.app/">https://bookmyshow-frontend-snowy.vercel.app/</a></li>
     <li>File Sharing MERN: <a href="https://filesharing-frontend-lime.vercel.app/">https://filesharing-frontend-lime.vercel.app/</a></li>
-    <li>Password Generator: <a href="https://password-generator-five-coral.vercel.app/">https://password-generator-five-coral.vercel.app/</a></li>
   </ul>
 </div>
 
@@ -111,9 +112,5 @@ I am a Computer Engineer, professional web designer, and developer. Good in Web 
       <td><img src="https://streak-stats.demolab.com/?user=FairozAhmadSheikh" alt="GitHub streak stats"></td>
     </tr>
   </table>
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3360857" style="border:none; width:300px; height:300px;"></iframe>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/FairozAhmadSheikh.png" alt="TryHackMe Profile Badge">
 </div>
-
-
-
-
