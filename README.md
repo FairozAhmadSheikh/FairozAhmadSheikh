@@ -8,11 +8,7 @@ Accomplished Full-Stack Web Developer and Android Developer with a strong founda
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <div align="left">
-  <p>
-    <a href="https://twitter.com/Ferozahmad7272" target="blank">
-      <img src="https://img.shields.io/twitter/follow/Ferozahmad7272?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-    </a>
-  </p>
+  
 
   - 🌱 I’m currently working on **Full-Stack Web Development.**
   - 🤔 I’m also currently enrolled in a Master's Program for AI (Artificial Intelligence).
