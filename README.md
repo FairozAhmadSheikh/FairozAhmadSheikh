@@ -106,5 +106,5 @@ Accomplished Full-Stack Web Developer and Android Developer with a strong founda
       <td><img src="https://streak-stats.demolab.com/?user=FairozAhmadSheikh" alt="GitHub streak stats"></td>
     </tr>
   </table>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/FairozAhmadSheikh.png" alt="TryHackMe Profile Badge">
+ <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3360857" style='border:none;'></iframe>
 </div>
