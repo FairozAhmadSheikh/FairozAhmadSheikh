@@ -10,7 +10,7 @@ Accomplished Full-Stack Web Developer and Android Developer with a strong founda
 <div align="left">
   
 
-  - 🌱 I’m currently working on **Full-Stack Web Development.**
+  - 🌱 I’m currently working on **Machine Learning.**
   - 🤔 I’m also currently enrolled in a Master's Program for AI (Artificial Intelligence).
   - 💬 Ask me about **Full-Stack Web Development, Artificial Intelligence, Ethical Hacking.**
   - 👨‍💻 Know more about me : <a href="https://portfolio-three-gray-24.vercel.app/">Portfolio</a>
