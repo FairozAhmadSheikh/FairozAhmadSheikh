@@ -7,6 +7,10 @@ Accomplished Full-Stack Web Developer and Android Developer with a strong founda
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<a href="https://github.com/FairozAhmadSheikh">
+  <img align="left" alt="Fairoz's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
 <div align="left">
   
 
