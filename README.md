@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fairoz Ahmad Sheikh</h1>
 <p align="center">A passionate Computer Engineer </p>
 
-Accomplished Full-Stack Web Developer and Android Developer with a strong foundation in backend development and ethical hacking. Proven expertise in designing, developing, and deploying innovative web and mobile applications. Demonstrated ability to effectively collaborate with cross-functional teams to deliver high-quality, secure, and user-centric solutions. Recognized as a top 0.1% global ethical hacker on TryHackMe, skilled in identifying and mitigating vulnerabilities.
+Accomplished Full-Stack Web Developer and AI Engineer with a robust foundation in backend development, deep learning, and ethical hacking. Adept at designing, developing, and deploying intelligent, secure, and scalable web applications. Known for delivering user-focused solutions through seamless collaboration with cross-functional teams. Recognized among the top 0.1% of global ethical hackers on TryHackMe, with proven expertise in identifying and mitigating complex cybersecurity threats.
 
 ###
 
