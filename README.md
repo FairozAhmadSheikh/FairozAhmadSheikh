@@ -88,6 +88,7 @@ Accomplished Full-Stack Web Developer and AI Engineer with a robust foundation i
 <div>
   <h2>Projects Section</h2>
   <ul>
+    <li>Image Blending Flask App: <a href="https://image-blending-app.onrender.com/">👉 Image Blending App/</a></li>
     <li>Travel Full-Stack: <a href="https://travel-frontend-drab.vercel.app/">https://travel-frontend-drab.vercel.app/</a></li>
     <li>ChatApp ConnectKashmir: <a href="https://connect-kashmir-frontend.vercel.app/login">https://connect-kashmir-frontend.vercel.app/login</a></li>
     <li>Weather Checking App: <a href="https://weather-check-pink.vercel.app/">https://weather-check-pink.vercel.app/</a></li>
