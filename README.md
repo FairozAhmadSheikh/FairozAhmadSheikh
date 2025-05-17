@@ -88,16 +88,15 @@ Accomplished Full-Stack Web Developer and AI Engineer with a robust foundation i
 <div>
   <h2>Projects Section</h2>
   <ul>
-    <li>Image Blending Flask App: <a href="https://image-blending-app.onrender.com/">👉 Image Blending App/</a></li>
-    <li>Travel Full-Stack: <a href="https://travel-frontend-drab.vercel.app/">https://travel-frontend-drab.vercel.app/</a></li>
-    <li>ChatApp ConnectKashmir: <a href="https://connect-kashmir-frontend.vercel.app/login">https://connect-kashmir-frontend.vercel.app/login</a></li>
-    <li>Weather Checking App: <a href="https://weather-check-pink.vercel.app/">https://weather-check-pink.vercel.app/</a></li>
-    <li>Music Player App: <a href="https://music-player-gamma-nine.vercel.app/">https://music-player-gamma-nine.vercel.app/</a></li>
-    <li>Advanced Quiz App: <a href="https://advanced-quiz-app-psi.vercel.app/">https://advanced-quiz-app-psi.vercel.app/</a></li>
-    <li>Todo App: <a href="https://todo-app-khaki-iota.vercel.app/">https://todo-app-khaki-iota.vercel.app/</a></li>
-    <li>Simple Quiz App: <a href="https://fairoz-quiz-app.vercel.app/">https://fairoz-quiz-app.vercel.app/</a></li>
-    <li>BookMyShow-like App: <a href="https://bookmyshow-frontend-snowy.vercel.app/">https://bookmyshow-frontend-snowy.vercel.app/</a></li>
-    <li>File Sharing MERN: <a href="https://filesharing-frontend-lime.vercel.app/">https://filesharing-frontend-lime.vercel.app/</a></li>
+    <li>Image Blending Flask App: <a href="https://image-blending-app.onrender.com/">👉 Image Blending App </a></li>
+    <li>Travel Full-Stack: <a href="https://travel-frontend-drab.vercel.app/">🏔 Tour and Travel Website</a></li>
+    <li>ChatApp ConnectKashmir: <a href="https://connect-kashmir-frontend.vercel.app/login"> 💌 Full Stack Chat Application </a></li>
+    <li>Weather Checking App: <a href="https://weather-check-pink.vercel.app/">🌄 Weather checking Application </a></li>
+    <li>Music Player App: <a href="https://music-player-gamma-nine.vercel.app/">🎸 Music Player O</a></li>
+    <li>Advanced Quiz App: <a href="https://advanced-quiz-app-psi.vercel.app/">🧠 Quiz App</a></li>
+    <li>Todo App: <a href="https://todo-app-khaki-iota.vercel.app/">🗃 To-do List</a></li>
+    <li>BookMyShow-like App: <a href="https://bookmyshow-frontend-snowy.vercel.app/"> 🎥 BookMyShow Clone</a></li>
+    <li>File Sharing MERN: <a href="https://filesharing-frontend-lime.vercel.app/">🔛 File Sharing Web App</a></li>
   </ul>
 </div>
 
