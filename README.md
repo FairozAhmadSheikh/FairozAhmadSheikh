@@ -56,6 +56,7 @@ Accomplished Full-Stack Web Developer and AI Engineer with a strong foundation i
     <td><a href="https://bookmyshow-frontend-snowy.vercel.app/">BookMyShow Clone</a></td>
   </tr>
   <tr>
+    <td><a href="https://fairozahmadsheikh.github.io/Near-Earth-Asteroid-Tracker/">NASA 7-Day Asteroid Tracker</a></td>
     <td><a href="https://filesharing-frontend-lime.vercel.app/">File Sharing MERN App</a></td>
     <td></td>
   </tr>
