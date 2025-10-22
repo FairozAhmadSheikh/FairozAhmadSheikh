@@ -1,91 +1,74 @@
-<h1 align="center">Hi, I'm Fairoz Ahmad Sheikh</h1>
+<h1 align="center">Hi, I'm Fairoz Ahmad Sheikh 👋</h1>
 <p align="center">A passionate Computer Engineer</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FairozAhmadSheikh&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ---
 
-### About Me
+### 🧠 About Me
 Accomplished Full-Stack Web Developer and AI Engineer with a strong foundation in backend development, deep learning, and ethical hacking. Skilled in designing, developing, and deploying intelligent, secure, and scalable web applications. Recognized among the top 0.1% of global ethical hackers on TryHackMe, with proven expertise in identifying and mitigating complex cybersecurity threats.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- Currently working on **Machine Learning and Deep Learning**  
-- Pursuing a Master's degree in **Artificial Intelligence**  
-- Ask me about **Full-Stack Web Development, Artificial Intelligence, Ethical Hacking**  
-- Portfolio: [Click Here](https://portfolio-three-gray-24.vercel.app/)  
+- 🌱 Currently working on **Machine Learning and Deep Learning**  
+- 🎓 Pursuing M.Tech in **Artificial Intelligence**  
+- 💬 Ask me about **Full-Stack Web Development, Artificial Intelligence, and Ethical Hacking**  
+- 🌐 Portfolio: [Click Here](https://portfolio-three-gray-24.vercel.app/)
 
 ---
-### Languages and Tools
+
+### 🧰 Languages and Tools
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a>
-  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-</p>
-
----
-### Projects
-<table>
-  <tr>
-    <td><a href="https://image-blending-app.onrender.com/">Image Blending Flask App</a></td>
-    <td><a href="https://travel-frontend-git-main-fairozs-projects.vercel.app/home">Tour and Travel Website</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://connect-kashmir-frontend.vercel.app/login">ConnectKashmir Chat Application</a></td>
-    <td><a href="https://weather-check-pink.vercel.app/">Weather Checking Application</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://music-player-gamma-nine.vercel.app/">Music Player</a></td>
-    <td><a href="https://advanced-quiz-app-psi.vercel.app/">Advanced Quiz App</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://todo-app-khaki-iota.vercel.app/">To-do List</a></td>
-    <td><a href="https://bookmyshow-frontend-snowy.vercel.app/">BookMyShow Clone</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://fairozahmadsheikh.github.io/Near-Earth-Asteroid-Tracker/">NASA 7-Day Asteroid Tracker</a></td>
-    <td><a href="https://filesharing-frontend-lime.vercel.app/">File Sharing MERN App</a></td>
-    <td></td>
-  </tr>
-</table>
-
----
-### Connect with Me
-<p align="left">
-  <a href="https://twitter.com/Ferozahmad7272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
-  <a href="https://www.linkedin.com/in/fairoz-ahmad-sheikh-2877b8278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-  <a href="https://instagram.com/ahmmadferoz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
 </p>
 
 ---
 
-### GitHub Stats
-
-<!-- 🌞 Light Mode -->
-| ![Fairoz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FairozAhmadSheikh&show_icons=true&theme=radical#gh-light-mode-only) | [![Fairoz's GitHub Streak](https://streak-stats.demolab.com?user=FairozAhmadSheikh&theme=default&border_radius=7&mode=weekly#gh-light-mode-only)](https://git.io/streak-stats) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FairozAhmadSheikh&layout=compact&show_icons=true&theme=radical#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats) |  |
-
-<!-- 🌚 Dark Mode -->
-| ![Fairoz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FairozAhmadSheikh&show_icons=true&theme=tokyonight#gh-dark-mode-only) | [![Fairoz's GitHub Streak](https://streak-stats.demolab.com?user=FairozAhmadSheikh&theme=dark&border_radius=7&mode=weekly#gh-dark-mode-only)](https://git.io/streak-stats) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FairozAhmadSheikh&layout=compact&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats) |  |
-
-[![Fairoz's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FairozAhmadSheikh&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true#gh-light-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Fairoz's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FairozAhmadSheikh&bg_color=0d1117&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true#gh-dark-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🚀 Projects
+| Project | Demo |
+|----------|-------|
+| [🖼️ Image Blending Flask App](https://image-blending-app.onrender.com/) | [🌍 Tour & Travel Website](https://travel-frontend-git-main-fairozs-projects.vercel.app/home) |
+| [💬 ConnectKashmir Chat Application](https://connect-kashmir-frontend.vercel.app/login) | [☁️ Weather App](https://weather-check-pink.vercel.app/) |
+| [🎵 Music Player](https://music-player-gamma-nine.vercel.app/) | [🧠 Advanced Quiz App](https://advanced-quiz-app-psi.vercel.app/) |
+| [📝 To-do List](https://todo-app-khaki-iota.vercel.app/) | [🎟️ BookMyShow Clone](https://bookmyshow-frontend-snowy.vercel.app/) |
+| [🪐 NASA 7-Day Asteroid Tracker](https://fairozahmadsheikh.github.io/Near-Earth-Asteroid-Tracker/) | [📁 File Sharing App](https://filesharing-frontend-lime.vercel.app/) |
 
 ---
 
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://twitter.com/Ferozahmad7272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/fairoz-ahmad-sheikh-2877b8278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://instagram.com/ahmmadferoz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+</p>
 
-### Cybersecurity Badge
+---
+
+### 📊 GitHub Stats
+
+| |
+|:--:|
+| <img alt="Fairoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FairozAhmadSheikh&show_icons=true&theme=tokyonight" /> |
+| <img alt="Fairoz's GitHub Streak" src="https://streak-stats.demolab.com?user=FairozAhmadSheikh&theme=tokyonight&border_radius=6" /> |
+| <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FairozAhmadSheikh&layout=compact&theme=tokyonight" /> |
+| <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=FairozAhmadSheikh&theme=tokyo-night&hide_border=true" /> |
+
+---
+
+### 🛡️ Cybersecurity Badge
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/FairozAhmadSheikh.png)
