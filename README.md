@@ -34,3 +34,29 @@ Accomplished Full-Stack Web Developer and AI Engineer with a strong foundation i
 </p>
 
 ---
+### Projects
+<table>
+  <tr>
+    <td><a href="https://image-blending-app.onrender.com/">Image Blending Flask App</a></td>
+    <td><a href="https://travel-frontend-git-main-fairozs-projects.vercel.app/home">Tour and Travel Website</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://connect-kashmir-frontend.vercel.app/login">ConnectKashmir Chat Application</a></td>
+    <td><a href="https://weather-check-pink.vercel.app/">Weather Checking Application</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://music-player-gamma-nine.vercel.app/">Music Player</a></td>
+    <td><a href="https://advanced-quiz-app-psi.vercel.app/">Advanced Quiz App</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://todo-app-khaki-iota.vercel.app/">To-do List</a></td>
+    <td><a href="https://bookmyshow-frontend-snowy.vercel.app/">BookMyShow Clone</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://fairozahmadsheikh.github.io/Near-Earth-Asteroid-Tracker/">NASA 7-Day Asteroid Tracker</a></td>
+    <td><a href="https://filesharing-frontend-lime.vercel.app/">File Sharing MERN App</a></td>
+    <td></td>
+  </tr>
+</table>
+
+---
