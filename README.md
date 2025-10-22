@@ -59,13 +59,6 @@ Accomplished Full-Stack Web Developer and AI Engineer with a strong foundation i
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FairozAhmadSheikh&theme=tokyonight&no-frame=true&margin-w=10&column=6" alt="GitHub Trophies"/>
-</p>
-
----
-
 ### 📊 GitHub Stats
 <div align="center">
   <table>
@@ -86,5 +79,3 @@ Accomplished Full-Stack Web Developer and AI Engineer with a strong foundation i
 
 ---
 
-### 🛡️ Cybersecurity Badge
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/FairozAhmadSheikh.png)
