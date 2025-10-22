@@ -59,14 +59,30 @@ Accomplished Full-Stack Web Developer and AI Engineer with a strong foundation i
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FairozAhmadSheikh&theme=tokyonight&no-frame=true&margin-w=10&column=6" alt="GitHub Trophies"/>
+</p>
 
-| |
-|:--:|
-| <img alt="Fairoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FairozAhmadSheikh&show_icons=true&theme=tokyonight" /> |
-| <img alt="Fairoz's GitHub Streak" src="https://streak-stats.demolab.com?user=FairozAhmadSheikh&theme=tokyonight&border_radius=6" /> |
-| <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FairozAhmadSheikh&layout=compact&theme=tokyonight" /> |
-| <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=FairozAhmadSheikh&theme=tokyo-night&hide_border=true" /> |
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=FairozAhmadSheikh&show_icons=true&theme=tokyonight" alt="Fairoz's GitHub stats"/></td>
+      <td><img src="https://streak-stats.demolab.com?user=FairozAhmadSheikh&theme=tokyonight&border_radius=6" alt="Fairoz's GitHub streak"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FairozAhmadSheikh&layout=compact&theme=tokyonight" alt="Top Languages"/></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FairozAhmadSheikh&theme=tokyo-night&hide_border=true&area=true" alt="Fairoz's Activity Graph"/>
+</p>
 
 ---
 
