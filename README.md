@@ -60,3 +60,11 @@ Accomplished Full-Stack Web Developer and AI Engineer with a strong foundation i
 </table>
 
 ---
+### Connect with Me
+<p align="left">
+  <a href="https://twitter.com/Ferozahmad7272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/fairoz-ahmad-sheikh-2877b8278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+  <a href="https://instagram.com/ahmmadferoz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
+</p>
+
+---
