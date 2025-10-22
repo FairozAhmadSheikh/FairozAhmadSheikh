@@ -68,3 +68,20 @@ Accomplished Full-Stack Web Developer and AI Engineer with a strong foundation i
 </p>
 
 ---
+
+### GitHub Stats
+
+<!-- 🌞 Light Mode -->
+| ![Fairoz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FairozAhmadSheikh&show_icons=true&theme=radical#gh-light-mode-only) | [![Fairoz's GitHub Streak](https://streak-stats.demolab.com?user=FairozAhmadSheikh&theme=default&border_radius=7&mode=weekly#gh-light-mode-only)](https://git.io/streak-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FairozAhmadSheikh&layout=compact&show_icons=true&theme=radical#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats) |  |
+
+<!-- 🌚 Dark Mode -->
+| ![Fairoz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FairozAhmadSheikh&show_icons=true&theme=tokyonight#gh-dark-mode-only) | [![Fairoz's GitHub Streak](https://streak-stats.demolab.com?user=FairozAhmadSheikh&theme=dark&border_radius=7&mode=weekly#gh-dark-mode-only)](https://git.io/streak-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FairozAhmadSheikh&layout=compact&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats) |  |
+
+[![Fairoz's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FairozAhmadSheikh&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true#gh-light-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Fairoz's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FairozAhmadSheikh&bg_color=0d1117&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true#gh-dark-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
