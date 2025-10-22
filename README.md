@@ -85,3 +85,7 @@ Accomplished Full-Stack Web Developer and AI Engineer with a strong foundation i
 [![Fairoz's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FairozAhmadSheikh&bg_color=0d1117&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true#gh-dark-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+
+
+### Cybersecurity Badge
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/FairozAhmadSheikh.png)
