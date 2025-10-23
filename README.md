@@ -38,17 +38,6 @@ Accomplished Full-Stack Web Developer and AI Engineer with a strong foundation i
 
 ---
 
-### 🚀 Projects
-| Project | Demo |
-|----------|-------|
-| [🖼️ Image Blending Flask App](https://image-blending-app.onrender.com/) | [🌍 Tour & Travel Website](https://travel-frontend-git-main-fairozs-projects.vercel.app/home) |
-| [💬 ConnectKashmir Chat Application](https://connect-kashmir-frontend.vercel.app/login) | [☁️ Weather App](https://weather-check-pink.vercel.app/) |
-| [🎵 Music Player](https://music-player-gamma-nine.vercel.app/) | [🧠 Advanced Quiz App](https://advanced-quiz-app-psi.vercel.app/) |
-| [📝 To-do List](https://todo-app-khaki-iota.vercel.app/) | [🎟️ BookMyShow Clone](https://bookmyshow-frontend-snowy.vercel.app/) |
-| [🪐 NASA 7-Day Asteroid Tracker](https://fairozahmadsheikh.github.io/Near-Earth-Asteroid-Tracker/) | [📁 File Sharing App](https://filesharing-frontend-lime.vercel.app/) |
-
----
-
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/fairoz-ahmad-sheikh-2877b8278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
