@@ -6,8 +6,6 @@
 </p>
 
 ---
-
-### 🧠 About Me
 Accomplished Full-Stack Web Developer and AI Engineer with a strong foundation in backend development, deep learning, and ethical hacking. Skilled in designing, developing, and deploying intelligent, secure, and scalable web applications. Recognized among the top 0.1% of global ethical hackers on TryHackMe.
 
 
