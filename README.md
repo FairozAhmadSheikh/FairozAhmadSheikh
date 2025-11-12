@@ -13,7 +13,7 @@ Accomplished Full-Stack Web Developer and AI Engineer with a strong foundation i
 - 🎓 Pursuing M.Tech in **Artificial Intelligence**  
 - 💬 Ask me about **Full-Stack Web Development, Artificial Intelligence, and CyberSecurity**  
 - 🌐 Portfolio: [Click Here](https://portfolio-three-gray-24.vercel.app/)
-- 💬 Contact : [Click Here](https://connect-to-viewers.vercel.app/)
+- 💬  [Drop Me a Message or Suggestion:](https://connect-to-viewers.vercel.app/)
 
 ---
 
