@@ -1,67 +1,118 @@
 <h1 align="center">Hi, I'm Fairoz Ahmad Sheikh 👋</h1>
-<p align="center">A passionate Computer Engineer</p>
+<p align="center">AI / ML Engineer | M.Tech in Artificial Intelligence</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FairozAhmadSheikh&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
-Accomplished Full-Stack Web Developer and AI Engineer with a strong foundation in backend development, deep learning, and ethical hacking. Skilled in designing, developing, and deploying intelligent, secure, and scalable web applications. Recognized among the top 0.1% of global ethical hackers on TryHackMe.
 
+I am an **AI / ML Engineer** currently pursuing an **M.Tech in Artificial Intelligence**, with hands-on experience in **Deep Learning, NLP, Computer Vision**, and **secure full-stack applications**.  
+I enjoy building practical AI systems and reproducing research papers to deeply understand real-world machine learning workflows.
 
-- 🌱 Currently working on **Machine Learning and Deep Learning**  
-- 🎓 Pursuing M.Tech in **Artificial Intelligence**  
-- 💬 Ask me about **Full-Stack Web Development, Artificial Intelligence, and CyberSecurity**  
-- 🌐 Portfolio: [Click Here](https://portfolio-three-gray-24.vercel.app/)
-- 💬  [Drop Me a Message or Suggestion](https://connect-to-viewers.vercel.app/)
+🏴‍☠️ **TryHackMe:** Ranked among the **top 0.1% globally**  
+👉 https://tryhackme.com/p/fairozahmadsheik
+
+- 🌱 Currently working on **Deep Learning & LLM-based systems**
+- 🎓 M.Tech in **Artificial Intelligence**
+- 💬 Ask me about **AI/ML, Deep Learning, NLP, Computer Vision**
+- 🌐 Portfolio: https://portfolio-three-gray-24.vercel.app/
+- ✉️ Contact / Feedback: https://connect-to-viewers.vercel.app/
 
 ---
 
-### 🧰 Languages and Tools
+## 🚀 Featured AI / ML Projects
+
+### 🎨 NeuroPalette
+**Neural Style Transfer Web App (PyTorch + Flask)**  
+Blends content images with famous artistic styles using deep learning, directly in the browser.
+- Tech: PyTorch, CNNs, Flask
+- Repo: https://github.com/FairozAhmadSheikh/NeuroPalette
+
+---
+
+### 🖼️ Image Blending App
+**Real-time Image Blending with Interactive Controls**  
+Blend two images dynamically using sliders to control opacity.
+- Tech: Flask, Image Processing
+- Repo: https://github.com/FairozAhmadSheikh/Image_Blending_App  
+- Live: https://image-blending-app.onrender.com
+
+---
+
+### 🍔 Mini Food Vision
+**Food Image Classification (101 Classes)**  
+CNN-based image classifier trained on the Food-101 dataset.
+- Tech: TensorFlow, CNNs, Transfer Learning
+- Notebook:  
+  https://github.com/FairozAhmadSheikh/DeepLearning_Bootcamp_with_Tensor_Flow/blob/main/Mini_Food_vision.ipynb
+
+---
+
+### 🧬 SkimLit (NLP Research Reproduction)
+**Sequential Sentence Classification in Medical Abstracts**  
+Reproduced and improved results from a research paper on medical text classification.
+- Tech: NLP, Deep Learning, TensorFlow
+- Notebook:  
+  https://github.com/FairozAhmadSheikh/DeepLearning_Bootcamp_with_Tensor_Flow/blob/main/nlp_project/milestone_project_nlp.ipynb
+
+---
+
+## 🤖 AI / ML Skills
+
+- **Machine Learning:** Classification, Regression, Clustering
+- **Deep Learning:** CNNs, Transfer Learning
+- **NLP:** Text Classification, Medical NLP
+- **LLMs:** Fundamentals & applied understanding
+- **Frameworks:** PyTorch, TensorFlow, Scikit-learn
+- **Languages:** Python, JavaScript
+- **Deployment:** Flask, REST APIs
+
+---
+
+## 🧰 Languages and Tools
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
 
 ---
 
-### 🤝 Connect with Me
+## 🎓 Certifications
+
+- **Python with Data Science & Machine Learning** – IIT Jammu  
+- **IBM Data Scientist Professional Certificate**  
+  https://www.coursera.org/account/accomplishments/specialization/D74ZVRU5WIN9
+- **Machine Learning** – University of London (Coursera)  
+  https://www.coursera.org/account/accomplishments/verify/OLZZKEPF4UHC
+
+---
+
+## 🤝 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/fairoz-ahmad-sheikh-2877b8278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/ahmmadferoz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/fairoz-ahmad-sheikh-2877b8278/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+  </a>
+  <a href="https://instagram.com/ahmmadferoz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=FairozAhmadSheikh&show_icons=true&theme=tokyonight" alt="Fairoz's GitHub stats"/></td>
-      <td><img src="https://streak-stats.demolab.com?user=FairozAhmadSheikh&theme=tokyonight&border_radius=6" alt="Fairoz's GitHub streak"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FairozAhmadSheikh&layout=compact&theme=tokyonight" alt="Top Languages"/></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=FairozAhmadSheikh&show_icons=true&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=FairozAhmadSheikh&theme=tokyonight"/>
 </div>
 
 ---
 
-### 📈 Activity Graph
+## 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FairozAhmadSheikh&theme=tokyo-night&hide_border=true&area=true" alt="Fairoz's Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FairozAhmadSheikh&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
-
----
-
