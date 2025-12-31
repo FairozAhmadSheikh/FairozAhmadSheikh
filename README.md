@@ -64,9 +64,9 @@ Reproduced and improved results from a research paper on medical text classifica
 - **Deep Learning:** CNNs, Transfer Learning
 - **NLP:** Text Classification, Medical NLP
 - **LLMs:** Fundamentals & applied understanding
-- **Frameworks:** PyTorch, TensorFlow, Scikit-learn
+- **Frameworks:** TensorFlow, Scikit-learn
 - **Languages:** Python, JavaScript
-- **Deployment:** Flask, REST APIs
+- **Deployment:** Flask, REST APIs, Render, Vercel
 
 ---
 
