@@ -64,7 +64,7 @@ Built a full **Retrieval-Augmented Generation** pipeline that lets users interro
 
 **Stack:** `LangChain` `OpenAI API` `Pinecone / Chroma` `Streamlit` `NLP`
 
-[![Repo](https://img.shields.io/badge/GitHub-LangChainRAGPiecone-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/FairozAhmadSheikh/LangChainRAGPiecone)
+[![Repo](https://img.shields.io/badge/GitHub-LangChainRAGPiecone-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/FairozAhmadSheikh/LangChain_RAG_Piecone)
 
 </td>
 <td width="50%" valign="top">
