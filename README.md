@@ -67,6 +67,30 @@ Built a full **Retrieval-Augmented Generation** pipeline that lets users interro
 [![Repo](https://img.shields.io/badge/GitHub-LangChainRAGPiecone-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/FairozAhmadSheikh/LangChain_RAG_Piecone)
 
 </td>
+
+<td width="50%" valign="top">
+
+### 💰 Insurance Premium Predictor
+**End-to-End ML-Powered Prediction System**
+
+> *Enter your details, get your insurance premium predicted instantly.*
+
+Built a complete **end-to-end machine learning web application** with dual frontend interfaces, a production FastAPI backend, Docker containerization, and AWS cloud deployment.
+
+**What's under the hood:**
+- 🔁 Full pipeline: data preprocessing → model training → REST API → containerization → cloud deployment
+- ⚡ **FastAPI** backend serving real-time predictions with Pydantic input validation
+- 🐳 **Dockerized** service deployed on **AWS** for scalable, environment-consistent production hosting
+- 🎛️ Dual frontends: **Flask** web app for browser-based interaction + **Streamlit** dashboard for analytical workflows
+- 🌐 Live and accessible via Vercel-hosted frontend
+
+**Stack:** `Python` `FastAPI` `Flask` `Streamlit` `Docker` `AWS` `Scikit-learn` `Vercel`
+
+[![Live](https://img.shields.io/badge/LIVE-Demo-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-for-insurance-category-pre.vercel.app/)
+[![Frontend](https://img.shields.io/badge/GitHub-Frontend_Repo-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/FairozAhmadSheikh/Frontend_for_Insurance_Category_prediction)
+[![Backend](https://img.shields.io/badge/GitHub-Backend_Repo-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/FairozAhmadSheikh/Insurance_Premium_Predictor_End_To_End)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🎨 NeuroPalette
