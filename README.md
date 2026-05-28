@@ -44,30 +44,10 @@ class FairozAhmadSheikh:
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🧠 DocuMind AI
-**RAG-Based Document Q&A System**
-
-> *Ask anything from your private docs — no hallucinations, just facts.*
-
-Built a full **Retrieval-Augmented Generation** pipeline that lets users interrogate PDFs, DOCX, and TXT files with pinpoint accuracy using semantic vector search.
-
-**What's under the hood:**
-- 📥 Full pipeline: ingest → chunk → embed → index → retrieve → generate
-- 🔍 Semantic similarity search with **top-k retrieval tuning**
-- 💬 Chat memory for **context-aware multi-turn conversations**
-- 🎛️ Configurable chunk sizes for speed/accuracy tradeoffs
-- 🖥️ Clean **Streamlit UI** with drag-and-drop file uploads
-
-**Stack:** `LangChain` `OpenAI API` `Pinecone / Chroma` `Streamlit` `NLP`
-
-[![Repo](https://img.shields.io/badge/GitHub-LangChainRAGPiecone-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/FairozAhmadSheikh/LangChain_RAG_Piecone)
-
-</td>
-
 <td width="50%" valign="top">
 
 ### 💰 Insurance Premium Predictor
@@ -123,6 +103,27 @@ Dynamic opacity-based image blending with a live preview UI.
 <tr>
 <td width="50%" valign="top">
 
+### 🧠 DocuMind AI
+**RAG-Based Document Q&A System**
+
+> *Ask anything from your private docs — no hallucinations, just facts.*
+
+Built a full **Retrieval-Augmented Generation** pipeline that lets users interrogate PDFs, DOCX, and TXT files with pinpoint accuracy using semantic vector search.
+
+**What's under the hood:**
+- 📥 Full pipeline: ingest → chunk → embed → index → retrieve → generate
+- 🔍 Semantic similarity search with **top-k retrieval tuning**
+- 💬 Chat memory for **context-aware multi-turn conversations**
+- 🎛️ Configurable chunk sizes for speed/accuracy tradeoffs
+- 🖥️ Clean **Streamlit UI** with drag-and-drop file uploads
+
+**Stack:** `LangChain` `OpenAI API` `Pinecone / Chroma` `Streamlit` `NLP`
+
+[![Repo](https://img.shields.io/badge/GitHub-LangChainRAGPiecone-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/FairozAhmadSheikh/LangChain_RAG_Piecone)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🍔 Mini Food Vision
 **Food Image Classifier — 101 Classes**
 
@@ -135,6 +136,8 @@ CNN classifier trained on Food-101 with transfer learning achieving strong multi
 [![Notebook](https://img.shields.io/badge/Notebook-Food_Vision-00ff88?style=for-the-badge&logo=jupyter&logoColor=black)](https://github.com/FairozAhmadSheikh/DeepLearning_Bootcamp_with_Tensor_Flow/blob/main/Mini_Food_vision.ipynb)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🧬 SkimLit
@@ -147,6 +150,11 @@ Reproduced and improved a published NLP research paper on sequential sentence cl
 **Stack:** `NLP` `Deep Learning` `TensorFlow`
 
 [![Notebook](https://img.shields.io/badge/Notebook-SkimLit_NLP-00ff88?style=for-the-badge&logo=jupyter&logoColor=black)](https://github.com/FairozAhmadSheikh/DeepLearning_Bootcamp_with_Tensor_Flow/blob/main/nlp_project/milestone_project_nlp.ipynb)
+
+</td>
+<td width="50%" valign="top">
+
+<!-- Available for next project -->
 
 </td>
 </tr>
