@@ -36,13 +36,12 @@ class FairozAhmadSheikh:
 - 🧠 Currently deep in **LLMs, RAG pipelines & Vector DBs**
 - 🔬 Love **reproducing research papers** to really understand ML
 - 🌐 Portfolio → [portfolio-three-gray-24.vercel.app](https://portfolio-three-gray-24.vercel.app/)
-- 💌 Say hi → [connect-to-viewers.vercel.app](https://connect-to-viewers.vercel.app/)
 
 <br clear="right"/>
 
 ---
 
-## 🐟
+## 🐟 Contribution Fish
 <div align="center">
   <img src="koi/koi.gif" width="256" alt="My GitHub Koi">
 </div>
