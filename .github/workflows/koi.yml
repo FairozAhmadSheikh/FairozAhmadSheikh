@@ -1,0 +1,48 @@
+
+name: Git Profile Koi
+
+on:
+  schedule:
+    - cron: "20 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    paths:
+      - ".github/workflows/koi.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: git-profile-koi
+  cancel-in-progress: false
+
+jobs:
+  generate-koi:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Git Profile Koi
+        uses: yalongwastaken/git-koi@v1.0.2
+        with:
+          body: white
+          output-dir: koi
+
+      - name: Commit and push updated GIF
+        run: |
+          git add koi/koi.gif
+
+          if git diff --cached --quiet; then
+            echo "No changes detected in koi GIF."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git commit -m "Update Git Profile Koi"
+          git push
