@@ -50,6 +50,34 @@ class FairozAhmadSheikh:
 
 <table>
 <tr>
+
+
+<td width="50%" valign="top">
+
+### ✈️ TravelMate AI
+**LangGraph-Powered Multi-Agent Travel Planning System**
+
+> *Plan smarter, travel better — AI agents handle your travel research and itinerary planning.*
+
+Built an **intelligent multi-agent travel planning application** using LangGraph and LLMs, orchestrating specialized AI agents for flight research, hotel discovery, itinerary planning, and personalized travel recommendations.
+
+**What's under the hood:**
+- 🤖 **Multi-agent architecture:** LangGraph orchestrates specialized agents for flight search, hotel research, itinerary planning, and final response generation.
+- ✈️ **Flight integration:** AviationStack API retrieves flight information for travel research.
+- 🏨 **Hotel discovery:** Tavily-powered web research gathers relevant hotel information and travel options.
+- 🧠 **LLM-powered reasoning:** Groq LLMs generate structured travel recommendations and coordinate intelligent planning workflows.
+- ⚡ **FastAPI backend:** REST APIs handle application requests and AI-powered travel planning workflows.
+- 🗄️ **PostgreSQL & SQLAlchemy:** Persist conversation state and manage application data.
+- 🌐 **Web interface:** Jinja2-powered frontend for interacting with the travel planning system.
+- 🚀 **Cloud deployment:** Deployed on Render for online accessibility.
+
+**Stack:** `Python` `LangGraph` `LangChain` `Groq` `FastAPI` `AviationStack` `Tavily` `PostgreSQL` `SQLAlchemy` `Jinja2` `Render`
+
+[![Live](https://img.shields.io/badge/LIVE-Demo-ff6b6b?style=for-the-badge&logo=render&logoColor=white)](https://travelmate-3w7f.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/FairozAhmadSheikh/TravelMate)
+
+</td>
+
 <td width="50%" valign="top">
 
 ### 💰 Insurance Premium Predictor
